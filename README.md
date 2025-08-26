@@ -8,9 +8,10 @@ Finally, I developed a **pricing strategy recommendation** to guide future growt
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard Overview](dashboard/dashboard_overview.png)  
-![Revenue by Season](dashboard/revenue_by_season.png)  
-![Pricing Recommendation](dashboard/pricing_recommendation.png)  
+![Dashboard Overview](<img width="908" height="502" alt="dash" src="https://github.com/user-attachments/assets/c7c90f80-aeee-4f83-ac34-2c326c8a3cd4" />
+)  
+![Pricing Recommendation](<img width="868" height="491" alt="image" src="https://github.com/user-attachments/assets/2ec87e10-6364-43c5-aeb2-0fc64e1337d9" />
+)  
 
 ---
 
@@ -46,6 +47,7 @@ select
 from cte a
 left join cost_table b
   on a.yr = b.yr;
+```
 ## 📈 KPIs, Insights & Recommendations
 
 **Key KPIs**
