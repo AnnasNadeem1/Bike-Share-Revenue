@@ -11,7 +11,7 @@ Finally, I developed a **pricing strategy recommendation** to guide future growt
 
 ![Dashboard Overview]()  
 <img width="908" height="502" alt="dash" src="https://github.com/user-attachments/assets/2f57030f-8289-4562-8e33-c439fad32952" />
-![Pricing Recommendation]
+## Pricing Recommendation
 <img width="868" height="491" alt="price" src="https://github.com/user-attachments/assets/4307e29a-6d17-4878-b9da-1af430feb22c" />
 ---
 
