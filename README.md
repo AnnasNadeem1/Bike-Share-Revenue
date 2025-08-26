@@ -8,10 +8,10 @@ Finally, I developed a **pricing strategy recommendation** to guide future growt
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard Overview](<img width="908" height="502" alt="dash" src="https://github.com/user-attachments/assets/c7c90f80-aeee-4f83-ac34-2c326c8a3cd4" />
-)  
+![Dashboard Overview]()  
 ![Pricing Recommendation](<img width="868" height="491" alt="image" src="https://github.com/user-attachments/assets/2ec87e10-6364-43c5-aeb2-0fc64e1337d9" />
 )  
+<img width="908" height="502" alt="dash" src="https://github.com/user-attachments/assets/2f57030f-8289-4562-8e33-c439fad32952" />
 
 ---
 
