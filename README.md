@@ -19,8 +19,6 @@ Finally, I developed a **pricing strategy recommendation** to guide future growt
 ## 🛠️ Tech Stack
 - **SQL** → data cleaning, joins, KPI calculations  
 - **Power BI** → dashboard design, KPIs, visualization  
-- **Excel** (optional) → preprocessing  
-
 ---
 
 ## 📂 Data Processing
